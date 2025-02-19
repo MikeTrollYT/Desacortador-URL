@@ -1,4 +1,4 @@
-# ![Logo](logo/Desacortador.png) Desacortador-URL
+# <img src="logo/Desacortador.png" alt="Logo" width="50"> Desacortador-URL
 # Desacortador-URL
 
 ## Descripción
